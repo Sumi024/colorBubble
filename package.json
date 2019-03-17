@@ -1,0 +1,25 @@
+{
+  "name": "colorbubble",
+  "version": "1.0.0",
+  "description": "colorful log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumi024/colorBubble.git"
+  },
+  "keywords": [
+    "colorful",
+    "console",
+    "log",
+    "javascript"
+  ],
+  "author": "Sumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumi024/colorBubble/issues"
+  },
+  "homepage": "https://github.com/Sumi024/colorBubble#readme"
+}
