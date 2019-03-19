@@ -33,8 +33,4 @@ class bubble {
     }
 }
 
-if(window.console){
-    window.bubble = new bubble();
-} else {
-    throw new Error('window.console not find!');
-}
+module.exports = new bubble();
